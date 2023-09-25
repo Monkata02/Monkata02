@@ -7,11 +7,11 @@
 - 🔭 I’m looking for a Intern (Frontend) job (prefer remote)
 - 🌱 Currently learning React
 - 
-- Basic Projects :
+- Basic Projects :memo: :
 - Project (WildLife Health) - https://monkata02.github.io/wildlife-health/
 - Project (BookPile) - https://monkata02.github.io/book-pile/
 - 
-- SoftUni Certificates:
+- SoftUni Certificates :pushpin: :
 - Certificate **https://softuni.bg/certificates/details/141508/10b7d28e**
 - Certificate **https://softuni.bg/certificates/details/168392/da1d0e7f**
 

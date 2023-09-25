@@ -6,11 +6,11 @@
 - :page_facing_up: Portfolio - https://monkata02.github.io/
 - 🔭 I’m currently looking for a job 
 - 🌱 Currently learning React
-
-
+<br>
+- Basic Projects :
 - Project (WildLife Health) - https://monkata02.github.io/wildlife-health/
 - Project (BookPile) - https://monkata02.github.io/book-pile/
-
+<br>
 - SoftUni Certificates:
 - Certificate **https://softuni.bg/certificates/details/141508/10b7d28e**
 - Certificate **https://softuni.bg/certificates/details/168392/da1d0e7f**

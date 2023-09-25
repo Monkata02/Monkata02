@@ -3,9 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monkata02&label=Profile%20views&color=0e75b6&style=flat" alt="monkata02" /> </p>
 
-- 🔭 I’m currently looking for a job [WildLife Health](https://monkata02.github.io/wildlife-health/)
+- 🔭 I’m currently looking for a job 
+- 🌱 Currently learning React
 
-- 🌱 I’m currently learning React **https://softuni.bg/certificates/details/141508/10b7d28e, https://softuni.bg/certificates/details/168392/da1d0e7f**
+- Project (WildLife Health) - https://monkata02.github.io/wildlife-health/
+- Project (BookPile) - https://monkata02.github.io/book-pile/
+
+- SoftUni Certificates:
+- Certificate **https://softuni.bg/certificates/details/141508/10b7d28e**
+- Certificate **https://softuni.bg/certificates/details/168392/da1d0e7f**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

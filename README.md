@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monkata02&label=Profile%20views&color=0e75b6&style=flat" alt="monkata02" /> </p>
 
 - :page_facing_up: Portfolio - https://monkata02.github.io/
-- 🔭 I’m looking for a Intern (Frontend) job (prefer remote)
+- 🔭 Looking for internship (Front-End)
 - 🌱 Currently learning React
 - 
 - Basic Projects :memo: :
@@ -12,6 +12,7 @@
 - Project (BookPile) - https://monkata02.github.io/book-pile/
 - 
 - SoftUni Certificates :pushpin: :
+- Certificate **https://softuni.bg/certificates/details/118555/a0e85b51**
 - Certificate **https://softuni.bg/certificates/details/141508/10b7d28e**
 - Certificate **https://softuni.bg/certificates/details/168392/da1d0e7f**
 

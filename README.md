@@ -8,7 +8,7 @@
 - 🌱 Currently learning React
 - 
 - Basic Projects :memo: :
-- Project (WildLife Health) - <a href="https://monkata02.github.io/wildlife-health/" target="_blank" rel="noopener noreferrer">https://monkata02.github.io/wildlife-health/</a>
+- Project 1 - [WildLife Health](https://monkata02.github.io/wildlife-health/)
 - Project (BookPile) - <a href="https://monkata02.github.io/book-pile/" target="_blank" rel="noopener noreferrer">https://monkata02.github.io/book-pile/</a>
 - 
 - SoftUni Certificates :pushpin: :

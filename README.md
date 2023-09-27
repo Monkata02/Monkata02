@@ -9,12 +9,12 @@
 - 
 - Basic Projects :memo: :
 - Project 1 - [WildLife Health](https://monkata02.github.io/wildlife-health/)
-- Project (BookPile) - <a href="https://monkata02.github.io/book-pile/" target="_blank" rel="noopener noreferrer">https://monkata02.github.io/book-pile/</a>
+- Project 2 - [BookPile](https://monkata02.github.io/book-pile/)
 - 
 - SoftUni Certificates :pushpin: :
-- Certificate <a href="https://softuni.bg/certificates/details/118555/a0e85b51" target="_blank" rel="noopener noreferrer">https://softuni.bg/certificates/details/118555/a0e85b51</a>
-- Certificate <a href="https://softuni.bg/certificates/details/141508/10b7d28e" target="_blank" rel="noopener noreferrer">https://softuni.bg/certificates/details/141508/10b7d28e</a>
-- Certificate <a href="https://softuni.bg/certificates/details/168392/da1d0e7f" target="_blank" rel="noopener noreferrer">https://softuni.bg/certificates/details/168392/da1d0e7f</a>
+- Certificate - [Programming Basics](https://softuni.bg/certificates/details/118555/a0e85b51)
+- Certificate - [JS Applications](https://softuni.bg/certificates/details/141508/10b7d28e)
+- Certificate - [JS Front-End](https://softuni.bg/certificates/details/168392/da1d0e7f)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

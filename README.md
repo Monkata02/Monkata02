@@ -8,13 +8,13 @@
 - 🌱 Currently learning React
 - 
 - Basic Projects :memo: :
-- Project (WildLife Health) - https://monkata02.github.io/wildlife-health/
-- Project (BookPile) - https://monkata02.github.io/book-pile/
+- Project (WildLife Health) - <a href="https://monkata02.github.io/wildlife-health/" target="_blank" rel="noopener noreferrer">https://monkata02.github.io/wildlife-health/</a>
+- Project (BookPile) - <a href="https://monkata02.github.io/book-pile/" target="_blank" rel="noopener noreferrer">https://monkata02.github.io/book-pile/</a>
 - 
 - SoftUni Certificates :pushpin: :
-- Certificate **https://softuni.bg/certificates/details/118555/a0e85b51**
-- Certificate **https://softuni.bg/certificates/details/141508/10b7d28e**
-- Certificate **https://softuni.bg/certificates/details/168392/da1d0e7f**
+- Certificate <a href="https://softuni.bg/certificates/details/118555/a0e85b51" target="_blank" rel="noopener noreferrer">https://softuni.bg/certificates/details/118555/a0e85b51</a>
+- Certificate <a href="https://softuni.bg/certificates/details/141508/10b7d28e" target="_blank" rel="noopener noreferrer">https://softuni.bg/certificates/details/141508/10b7d28e</a>
+- Certificate <a href="https://softuni.bg/certificates/details/168392/da1d0e7f" target="_blank" rel="noopener noreferrer">https://softuni.bg/certificates/details/168392/da1d0e7f</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

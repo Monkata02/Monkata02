@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monkata02&label=Profile%20views&color=0e75b6&style=flat" alt="monkata02" /> </p>
 
 - :page_facing_up: [Portfolio](https://monkata02.github.io/)
-- 🔭 Looking for internship (Front-End)
 - 🌱 Currently learning React
 - 
 - Basic Projects :memo: :

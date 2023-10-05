@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simeon</h1>
-<h3 align="center">21-Year-Old Bulgarian on a Front-End Journey</h3>
+<h3 align="center">21-Year-Old on a Front-End Journey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monkata02&label=Profile%20views&color=0e75b6&style=flat" alt="monkata02" /> </p>
 

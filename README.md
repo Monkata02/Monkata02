@@ -8,7 +8,6 @@
 - 
 - Basic Projects :memo: :
 - Project - [WildLife Health](https://monkata02.github.io/wildlife-health/)
-- Project - [PlayMomentum](https://monkata02.github.io/play-momentum/)
 - 
 - SoftUni Certificates :pushpin: :
 - Certificate - [Programming Basics](https://softuni.bg/certificates/details/118555/a0e85b51)

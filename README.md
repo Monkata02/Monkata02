@@ -7,7 +7,10 @@
 - 🌱 Currently learning React
 - 
 - Basic Projects :memo: :
-- Project - [WildLife Health](https://monkata02.github.io/wildlife-health/)
+- Project - [Mad Hoodies](https://monkata02.github.io/MadHoodies/)
+- Project - [WildLife Health](https://monkata02.github.io/WildLifeHealth/)
+- Project - [BookPile](https://monkata02.github.io/BookPile/)
+- Project - [Laptop Showcase](https://monkata02.github.io/Showcase/)
 - 
 - SoftUni Certificates :pushpin: :
 - Certificate - [Programming Basics](https://softuni.bg/certificates/details/118555/a0e85b51)
